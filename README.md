@@ -25,6 +25,9 @@ Here is a quick overview of the technologies I have experience working with:
 * [**Issue Tracking System**](https://github.com/thaifusion/OBJ)
   A client-server Java application with a **JavaFX** interface and a **MySQL** database. It features role-based access control, allowing software testers to submit error reports directly to developers.
 
+* [**Simple todo application**](https://github.com/JHTgh/Todo_app)
+  A simple todo application built with React, TypeScript, CSS and SQLite. This app allows you to manage and organize your daily tasks with statuses, priorities, and due dates.
+
 ## How to reach me
 
 * **Email:** jorgthor@proton.me
