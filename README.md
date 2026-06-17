@@ -16,9 +16,6 @@ Here is a quick overview of the technologies I have experience working with:
 * [**Personality Test Viewer**](https://github.com/JHTgh/App2000-gruppe07)
   A web application built with **Next.js** and **CSS** for companies to analyze and compare personality test results of employees and job candidates side by side.
 
-* [**Personal Portfolio**](https://github.com/JHTgh/porto)
-  A static, responsive portfolio website built from scratch using **HTML** and **CSS** to showcase my academic and personal programming projects.
-
 * [**Restaurant Simulation**](https://github.com/thaifusion/OBJ2100_Gruppe7)
   A Java-based application simulating a restaurant workflow. It utilizes **Java Multithreading** to handle concurrent operations for chefs and customers, simulating realistic preparation and waiting times.
 
